@@ -39,7 +39,7 @@ Esse comportamento reproduz a lógica de temporização usada em semáforos reai
 ## Como reproduzir
 
 1. Monte o circuito conforme o esquema acima
-2. Faça upload do arquivo `semáforo Inteligente.ino` via Arduino IDE (ou abra no Tinkercad/simulador)
+2. Faça upload do arquivo `Semáforo Inteligente.ino` via Arduino IDE (ou abra no Tinkercad/simulador)
 3. Observe o ciclo completo do semáforo rodando automaticamente
 
 ---
