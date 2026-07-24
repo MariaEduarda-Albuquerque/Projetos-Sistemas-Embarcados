@@ -2,6 +2,8 @@
 
 Circuito que aciona uma lâmpada a partir de dois pontos de controle independentes, qualquer um dos dois botões liga a lâmpada.
 
+![Circuito montado](./ControleLEDdoisBotões.png)
+
 ## Como funciona
 
 O código lê continuamente o estado de duas entradas digitais (botões). Se **qualquer uma delas** estiver em nível alto (pressionada), a lâmpada é ligada:
@@ -17,7 +19,7 @@ Esse comportamento representa uma porta lógica **OU (OR)** aplicada a hardware:
 - 1x Arduino Uno
 - 2x Botão (push button)
 - 1x Lâmpada
-- 3x Resistor 
+- 3x Resistor
 - Protoboard e jumpers
 
 ## Esquema de conexão
