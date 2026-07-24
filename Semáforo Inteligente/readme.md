@@ -44,4 +44,4 @@ Esse comportamento reproduz a lógica de temporização usada em semáforos reai
 
 ---
 
-Desenvolvido por Maria Eduarda Albuquerque
+<p align="center">Desenvolvido por Maria Eduarda Albuquerque</p>
