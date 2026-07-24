@@ -38,4 +38,4 @@ Esse comportamento representa uma porta lógica **OU (OR)** aplicada a hardware:
 
 ---
 
-Desenvolvido por Maria Eduarda Albuquerque
+<p align="center">Desenvolvido por Maria Eduarda Albuquerque</p>
