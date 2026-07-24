@@ -38,4 +38,4 @@ Um pequeno delay de 300ms é usado para evitar leituras múltiplas indesejadas c
 
 ---
 
-Desenvolvido por Maria Eduarda Albuquerque
+<p align="center">Desenvolvido por Maria Eduarda Albuquerque</p>
