@@ -17,7 +17,7 @@ Este repositório reúne projetos práticos de hardware e automação, com foco 
 | Pasta | Conteúdo |
 |---|---|
 | `Botão com Lógica de Alternância/` | Interruptor toggle: um botão liga e desliga uma lâmpada alternadamente, usando contador e operador módulo |
-| `Controle de LED Dois Botões/` | Controle de lâmpada com dois botões independentes, aplicando lógica OU |
+| `Controle de LED com Dois Botões/` | Controle de lâmpada com dois botões independentes, aplicando lógica OU |
 | `Semáforo Inteligente/` | Semáforo automatizado para carros e pedestres, com ciclo de tempo controlado por software |
 
 ---
