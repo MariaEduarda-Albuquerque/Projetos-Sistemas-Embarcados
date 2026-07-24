@@ -36,11 +36,6 @@ Um pequeno delay de 300ms é usado para evitar leituras múltiplas indesejadas c
 2. Faça upload do código via Arduino IDE (ou abra no Tinkercad/simulador)
 3. Pressione o botão e observe a lâmpada alternar entre ligada e desligada a cada aperto
 
-## Possíveis melhorias
-
-- Substituir o `delay(300)` por debounce baseado em `millis()`, evitando travar outras leituras durante a espera
-- Adicionar `INPUT_PULLUP` para dispensar o resistor externo do botão
-
 ---
 
 Desenvolvido por Maria Eduarda Albuquerque
