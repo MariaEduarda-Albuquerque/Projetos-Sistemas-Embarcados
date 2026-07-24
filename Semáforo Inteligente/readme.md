@@ -4,7 +4,7 @@ Sistema de semáforo automatizado para cruzamento de carros e pedestres, com cic
 
 ## Demonstração
 
-![Semáforo Inteligente em funcionamento](semafor-demo.gif)
+![Semáforo Inteligente](./assets/Semáforo-demo.gif)
 
 *Ciclo completo: vermelho → amarelo → verde (carro), sincronizado com o sinal de pedestres.*
 
